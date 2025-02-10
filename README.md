@@ -1,2 +1,2 @@
 # Snake-Python
- Snake game made using Pygame
+Simple Snake game made using Python (Pygame)
